@@ -1,0 +1,346 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+#capturePic {
+	-fx-min-height: 60px;
+
+    -fx-min-width: 90px;
+
+	-fx-background-color:#FFFFFF ;
+    -fx-background-image: url("../face.png");
+
+    -fx-background-size: 50px 50px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+
+.aaa
+{
+
+-fx-min-height: 60px;
+
+    -fx-min-width: 90px;
+    -fx-background-color:#FFFFFF ;
+
+    -fx-background-image: url("../onon.png");
+
+    -fx-background-size: 50px 50px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+
+#savef
+{
+
+-fx-min-height: 60px;
+
+    -fx-min-width: 90px;
+
+	-fx-background-color:#FFFFFF ;
+    -fx-background-image: url("../enregistrer.jpg");
+
+    -fx-background-size: 50px 50px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+
+.Id{
+	-fx-min-height: 60px;
+
+    -fx-min-width: 90px;
+	
+	-fx-background-color:#FFFFFF ;
+    -fx-background-image: url("../Id.png");
+
+    -fx-background-size: 50px 50px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+	
+}
+.recog
+{
+
+-fx-min-height: 60px;
+
+    -fx-min-width: 90px;
+    -fx-background-color:#FFFFFF ;
+    -fx-background-image: url("../recognition.png");
+
+    -fx-background-size: 50px 50px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+
+
+
+
+.motion
+{
+
+-fx-min-height: 60px;
+
+    -fx-min-width: 90px;
+   -fx-background-color:#FFFFFF ;
+	
+    -fx-background-image: url("../motion.png");
+
+    -fx-background-size: 50px 50px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+
+.stop2
+{
+
+-fx-min-height: 60px;
+
+    -fx-min-width: 90px;
+    -fx-background-color:#FFFFFF ;
+    -fx-background-image: url("../stop.png");
+
+    -fx-background-size: 50px 50px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+
+.stop1
+{
+
+-fx-min-height: 60px;
+
+    -fx-min-width: 90px;
+    -fx-background-color:#FFFFFF ;
+    -fx-background-image: url("../stop-icon.png");
+
+    -fx-background-size: 50px 50px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+
+.ocr
+{
+
+-fx-min-height: 60px;
+
+    -fx-min-width: 90px;
+     -fx-background-color:#FFFFFF ;
+     -fx-background-image: url("../scanner.png");
+
+    -fx-background-size: 50px 50px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+.capture
+{
+
+-fx-min-height: 45px;
+
+    -fx-min-width: 90px;
+   -fx-background-color:#FFFFFF ;
+   -fx-background-image: url("../camera.png");
+
+    -fx-background-size: 40px 30px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+.exit1
+{
+
+    -fx-max-height: 60px;
+
+    -fx-max-width: 90px;
+    -fx-background-color:#FFFFFF ;
+	
+    -fx-background-image: url("../exit.jpg");
+
+       -fx-background-size: 50px 50px;
+       -fx-background-repeat: no-repeat;
+       -fx-background-position: center 7px;
+}
+
+.supprimeruser
+{
+
+-fx-min-height: 60px;
+
+    -fx-min-width: 90px;
+    -fx-background-color:#FFFFFF ;
+    -fx-background-image: url("../gesture.jfif");
+
+    -fx-background-size: 80px 50px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 0px;
+}
+.eye
+{
+
+-fx-min-height: 60px;
+
+    -fx-min-width: 90px;
+    -fx-background-color:#FFFFFF ;
+    -fx-background-image: url("../eye.png");
+
+    -fx-background-size: 45px 40px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+.sqr
+{
+
+-fx-min-height: 60px;
+
+    -fx-min-width: 90px;
+    -fx-background-color:#FFFFFF ;
+	
+    -fx-background-image: url("../square.png");
+
+    -fx-background-size: 50px 50px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+
+.git
+{
+
+-fx-min-height: 60px;
+
+    -fx-min-width: 90px;
+    -fx-background-color:#FFFFFF ;
+	
+    -fx-background-image: url("../git.png");
+
+    -fx-background-size: 50px 50px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+.facebook
+{
+
+-fx-min-height: 50px;
+
+    -fx-min-width: 90px;
+    -fx-background-color:#FFFFFF ;
+    -fx-background-image: url("../facebook.png");
+	
+
+    -fx-background-size: 50px 40px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+.insta
+{
+
+-fx-min-height: 50px;
+
+    -fx-min-width: 90px;
+    -fx-background-color:#FFFFFF ;
+    -fx-background-image: url("../Instagram-icon.png");
+	
+
+    -fx-background-size: 50px 40px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+.twitter
+{
+
+-fx-min-height: 50px;
+
+    -fx-min-width: 90px;
+    -fx-background-color:#FFFFFF ;
+    -fx-background-image: url("../twitter-icon.png");
+	
+
+    -fx-background-size: 50px 40px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+.google
+{
+
+-fx-min-height: 50px;
+
+    -fx-min-width: 90px;
+
+	-fx-background-color:#FFFFFF ;
+	-fx-background-image: url("../google-icon.png");
+    
+    -fx-background-size: 50px 40px;
+
+     -fx-background-repeat: no-repeat;
+
+     -fx-background-position: center 7px;
+}
+.gmail
+{
+
+-fx-min-height: 60px;
+
+    -fx-min-width: 90px;
+
+	-fx-background-color:#FFFFFF ;
+    -fx-background-image: url("../gmail.jpg");
+
+    -fx-background-size: 50px 50px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+.no
+{
+
+-fx-min-height: 60px;
+
+    -fx-min-width: 90px;
+
+	-fx-background-color:#FFFFFF ;
+    -fx-background-image: url("../no-icon.png");
+
+    -fx-background-size: 50px 50px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+
+
+
+
+
+
+
